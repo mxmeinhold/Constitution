@@ -1,3 +1,6 @@
+Governing Documents of Computer Science House
+===============
+
 # CSH Constitution
 The master branch's HEAD is the current legal constitution of CSH.
 
@@ -62,7 +65,6 @@ committed.  If you are making a pull request, be sure to make a pull request aga
 6. Wait for vote to pass then merge changes
 
 # Code of Conduct
-===============
 ### Computer Science House @ RIT
 
 This document is signed by every member before they are given access to the resources provided by the Computer Science House at the Rochester Institute of Technology. As a subset of the RIT ITS network, members are bound by this agreement as well as all other ITS rules.
@@ -70,7 +72,6 @@ This document is signed by every member before they are given access to the reso
 Download the [Compiled Document](http://latex.aslushnikov.com/compile?url=https%3A%2F%2Fraw.githubusercontent.com%2FComputerScienceHouse%2FCodeOfConduct%2Fmaster%2Fcsh-coc.tex).
 
 # Membership Agreement
-===============
 ### Computer Science House @ RIT
 
 This document is signed by every member before they are granted membership to Computer Science House at Rochester Institute of Technology.
